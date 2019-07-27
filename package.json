@@ -1,6 +1,14 @@
 {
   "name": "training-assistant-react",
   "version": "0.1.0",
+  "author": "Leonardo Gobbi Lopez <leonardoglopez@gmail.com> ()",
+  "contributors": [
+    "Leonardo Gobbi Lopez <leonardo@jungledevs.com> (https://github.com/LeonardoGLopez)"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/LeonardoGLopez/training-assistant-react.git"
+  },
   "private": true,
   "dependencies": {
     "react": "^16.8.6",
